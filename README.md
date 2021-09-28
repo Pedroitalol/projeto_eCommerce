@@ -1,2 +1,2 @@
 # projeto_eCommerce
-Projeto de um site de E commerce usando Laravel.
+Projeto de um site de e-commerce usando Laravel.
